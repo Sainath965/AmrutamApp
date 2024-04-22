@@ -1,7 +1,3 @@
-README.md
-
-# React.js Webpages from Designs
-
 This project aims to convert two given designs into separate React.js webpages while adhering closely to the original design. The webpages will incorporate animations and motion designs to enhance the user experience, and ensure grammatical correctness and descriptive content for clarity.
 
 ## Features
